@@ -6,7 +6,7 @@ A script that helps you *instantly* generate a beautiful GitHub Contributions Gr
 for the last year.               
       
 ### Before :neutral_face: :no_mouth: :unamused:    
-![Before](before.png)
+![Before](before.png) 
 ### After :muscle: :relieved: :heart: :sunglasses: :metal: :horse: :wink: :fire: :dancer: :santa: :fireworks: :cherries: :tada:
 ![After](after.png)
 
