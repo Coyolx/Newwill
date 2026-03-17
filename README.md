@@ -56,7 +56,7 @@ Use `--days_before` and `--days_after` to specify how many days before the curre
 date the script should start committing, and how many days after the current date it
 will keep committing.
 
-```sh
+```sh 
 python contribute.py --days_before=10 --days_after=15
 ```
 
