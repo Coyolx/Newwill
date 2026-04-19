@@ -41,7 +41,7 @@ able to see what exactly.
 You can customize how often to commit and how many commits a day to make, etc.
 
 For instance, with the following command, the script will make from 1 to 12 
-commits a day. It will commit 60% days a year.
+commits a day. It will commit 60% days a year. 
 ```sh 
 python contribute.py --max_commits=12 --frequency=60 --repository=git@github.com:user/repo.git
 ```
