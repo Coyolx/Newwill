@@ -67,7 +67,7 @@ To be able to execute the script you need to have Python and Git installed.
 
 ## Troubleshooting
 #### I performed the script but my GitHub activity is still the same.
-It might take several minutes for GitHub to reindex your activity. Check
+It might take several minutes for GitHub to reindex your activity. Check  
 if the repository has new commits and wait a couple of minutes.
 #### The changes are still not reflected after some time.
 Are you using a private repository? If so, enable showing private contributions
