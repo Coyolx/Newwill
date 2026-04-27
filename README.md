@@ -45,7 +45,7 @@ commits a day. It will commit 60% days a year.
 ```sh 
 python contribute.py --max_commits=12 --frequency=60 --repository=git@github.com:user/repo.git
 ``` 
-Use `--no_weekends` option if you don't want to commit on weekends
+Use `--no_weekends` option if you don't want to commit on wee kends
 ```sh
 python contribute.py --no_weekends
 ```
