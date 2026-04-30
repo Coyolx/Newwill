@@ -47,7 +47,7 @@ python contribute.py --max_commits=12 --frequency=60 --repository=git@github.com
 ``` 
 Use `--no_weekends` option if you don't want to commit on wee kends
 ```sh
-python contribute.py --no_weekends 
+python contribute.py --no_weekends   
 ```
 If you do not set the `--repository` argument the script won't push the changes.  
 This way you can import the generated repository yourself.
