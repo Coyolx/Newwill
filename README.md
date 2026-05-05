@@ -49,7 +49,7 @@ Use `--no_weekends` option if you don't want to commit on wee kends
 ```sh
 python contribute.py --no_weekends    
 ``` 
-If you do not set the `--repository` argument the script won't push the changes.  
+If you do not set the `--repository` argument the script won't push the changes.   
 This way you can import the generated repository yourself.
  
 Use `--days_before` and `--days_after` to specify how many days before the current 
