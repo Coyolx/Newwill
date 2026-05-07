@@ -57,7 +57,7 @@ date the script should start committing, and how many days after the current dat
 will keep committing.  
 
 ```sh 
-python contribute.py --days_before=10 --days_after=15
+python contribute.py --days_before=10 --days_after=1
 ```
   
 Run `python contribute.py --help` to get help.
